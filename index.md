@@ -1,3 +1,10 @@
+<h2>{{ site.data.samplelist.docs_list_title }}</h2>
+<ul>
+   {% for item in site.data.samplelist.docs %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+   {% endfor %}
+</ul>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jjsantanna/jjsantanna.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
