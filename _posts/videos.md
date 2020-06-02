@@ -1,1 +1,6 @@
-- (How to Deal with Cyber Security? TEDxYouth@AnnavanRijnCollege)[https://www.youtube.com/watch?v=YWbtipDLsIQ&t=621s]
+- [2019 How to Deal with Cyber Security? TEDxYouth@AnnavanRijnCollege](https://www.youtube.com/watch?v=YWbtipDLsIQ&t=621s)
+- [2018 Best scientific communicator in the Netherlands @FameLab-Final](https://www.youtube.com/watch?v=9av9ifNbMf8)
+- [My research at the national TV. "Scholen hebben dagelijks last van DDoS aanvallen" @NOS (from 0:45 I appeared with my PhD supervisor)](https://www.youtube.com/watch?v=Fu9-X5fsxCw)
+- [Booters and "Stressers": The Distributed Denial of Service as a $ervice @TNC2016, Prague, Czech Republic](https://www.youtube.com/watch?v=VUSoC5BVZCU)
+- [Best PhD "elevator pitch" on DDoS Attacks and Booters @CTIT-Symposium, 2015, Enschede, Netherlands](https://www.youtube.com/watch?v=I4V-xd7bcRM)
+- [Lunch Lecture on DDoS Attacks and Booters @University of Twente, 2015, Enschede, Netherlands](https://www.youtube.com/watch?v=SRRooepM2zc)
