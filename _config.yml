@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jair Santanna / Jair Santanna"
+title                    : "Jair Santanna"
 title_separator          : "-"
 name                     : &name "Jair Santanna"
 description              : &description "Enthusiastic Cyber Security Practitioner and Assistant Professor"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCMkQmMdm8_kXEY-U-ghoRHA"
   wikipedia        :
 
 
