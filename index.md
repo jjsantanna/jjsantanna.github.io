@@ -1,3 +1,0 @@
-- [Link to my Linkedin](https://www.linkedin.com/in/jjcsantanna/)
-- [Link to my Github](https://www.github.com/jjsantanna/)
-- [Link to my University of Twente Page](https://people.utwente.nl/j.j.santanna)
