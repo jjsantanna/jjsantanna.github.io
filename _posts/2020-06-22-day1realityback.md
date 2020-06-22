@@ -7,7 +7,7 @@ tags:
   - aftervacations
   - work
 ---
-* In this post, I’m just sharing the beginning of my day after a vacation with my family *
+*In this post, I’m just sharing the beginning of my day after a vacation with my family*
  
 how have you been? My holidays were great. We spent time with friends, family, God, and wich each other (Priscilla, Milena and me). My time at the retreat helpt me to think about what should I do to be more productive. On top of that, I helpt me to think about how to have my life in balance. My take-away from that is that I need to be more structured, organized, and habit/routine-driven. I always bully people tooo structured but here I am hungry for it. 
 
