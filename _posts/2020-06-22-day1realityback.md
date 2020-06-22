@@ -9,7 +9,7 @@ tags:
 ---
 *In this post, I’m just sharing the beginning of my day after a vacation with my family*
  
-how have you been? My holidays were great. We spent time with friends, family, God, and wich each other (Priscilla, Milena and me). My time at the retreat helpt me to think about what should I do to be more productive. On top of that, I helpt me to think about how to have my life in balance. My take-away from that is that I need to be more structured, organized, and habit/routine-driven. I always bully people tooo structured but here I am hungry for it. 
+How have you been? My holidays were great. We spent time with friends, family, God, and wich each other (Priscilla, Milena and me). My time at the retreat helpt me to think about what should I do to be more productive. On top of that, I helpt me to think about how to have my life in balance. My take-away from that is that I need to be more structured, organized, and habit/routine-driven. I always bully people tooo structured but here I am hungry for it. 
 
 Yesterday there was something amazing. It was fathers day and my wife made an effort to make me extra happy. We went for the first time biking in the region. I didn't find the park that I intended to, Milena was annoyed but the key to our stress was our dog Dembê. Son-of-a-dog! he was too tired to run and to enthusiastic to stay put in the little chariot attached to my bike. It was a pain in the ass. First, the entire situation annoyed my wife (a LOT). Then, her annoyances made me sad. Still, I think for the first time, she insisted on me and at the moment. We went to a beach, Dembê was not able to enter. And my wife still went to play on the sand and the water with Milena. She made my day. I love them so much. 
 
