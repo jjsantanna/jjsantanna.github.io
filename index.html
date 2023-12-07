@@ -8,17 +8,10 @@ layout: default
 		{% if forloop.index <= 1 %}
 		<div class="col col-12">
 			<article class="article-first">
-				<div class="article-image-first" style="background-image: url({{"/img/02.jpg" | prepend: site.baseurl }})">
+				<div class="article-image-first" style="background-image: url({{"/img/01.jpg" | prepend: site.baseurl }})">
 					<div class="article-content-first">
-						<div class="article-tag">
-						{% if post.tags.size >= 1 %}
-							{% for tag in post.tags %}
-							<a href="{{ site.baseurl }}/tags#{{tag}}" class="tag">{{ tag }}</a>
-							{% endfor %}
-						{% else %} {% endif %}
-						</div>
 						<h2 class="article-title"><a href="{{ "/about/" | prepend: site.baseurl }}">{{post.title}}</a></h2>
-						<a href="{{ "/about/" | prepend: site.baseurl }}" class="button read-more">Read More</a>
+						<a href="{{ "/about/" | prepend: site.baseurl }}" class="button read-more">About</a>
 					</div>
 				</div>
 			</article> <!-- /.article-first -->
