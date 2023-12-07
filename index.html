@@ -3,9 +3,6 @@ layout: default
 ---
 <div class="container">
 	<div class="row">
-	{% if site.posts.size > 0 %}
-		{%- for post in paginator.posts -%}
-		{% if forloop.index <= 1 %}
 		<div class="col col-12">
 			<article class="article-first">
 				<div class="article-image-first" style="background-image: url({{"/img/01.jpg" | prepend: site.baseurl }})">
@@ -23,10 +20,6 @@ layout: default
 				</div>
 			</article> <!-- /.article-first -->
 		</div>
-		{% endif %}
-
-		{% endfor %}
-	{% endif %}
 	</div>
 </div>
 
@@ -34,7 +27,7 @@ layout: default
 	<div class="row">
 		<div class="col col-12 col-t-8">
 			<div class="row">
-			{%- for post in paginator.posts offset: 1 -%}
+			{%- for post in paginator.posts -%}
 				<article class="article col col-12 col-t-6">
 					<div class="article-box">
 						<div class="article-head">
