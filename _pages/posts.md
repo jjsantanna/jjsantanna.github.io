@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Posts
-# image: 02.jpg
-permalink: /posts/
+title: Blog
+image: 01.jpg
+permalink: /blog/
 ---
 
 {% for post in site.posts %}
