@@ -8,7 +8,7 @@ layout: default
 		{% if forloop.index <= 1 %}
 		<div class="col col-12">
 			<article class="article-first">
-				<div class="article-image-first" style="background-image: url({{"/img/" | prepend: site.baseurl | append : post.image}})">
+				<div class="article-image-first" style="background-image: url({{"/img/02.jpg" | prepend: site.baseurl }})">
 					<div class="article-content-first">
 						<div class="article-tag">
 						{% if post.tags.size >= 1 %}
@@ -17,10 +17,7 @@ layout: default
 							{% endfor %}
 						{% else %} {% endif %}
 						</div>
-						<!-- <h2 class="article-title"><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h2> -->
 						<h2 class="article-title"><a href="{{ "/about/" | prepend: site.baseurl }}">{{post.title}}</a></h2>
-						<!-- <p class="article-excerpt">{% if post.description %}{{ post.description | strip_html | truncate: 163 }}{% else %}{{ post.content | strip_html | truncate: 163 }}{% endif %}</p> -->
-						<!-- <a href="{{ post.url | prepend: site.baseurl }}" class="button read-more">Read More</a> -->
 						<a href="{{ "/about/" | prepend: site.baseurl }}" class="button read-more">Read More</a>
 					</div>
 				</div>
