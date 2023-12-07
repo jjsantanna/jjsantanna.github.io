@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-image: 01.jpg
+image: 03.jpg
 permalink: /blog/
 ---
 
