@@ -15,15 +15,19 @@
           <div class="footer-social">
             <ul class="list-reset">
               {% if site.linkedin %}
-              <li><a href="{{ site.pinterest }}">Linkedin</a></li>
+              <li><a href="{{ site.pinterest }}">LinkedIn</a></li>
               {% else %} {% endif %}
 
-              {% if site.facebook %}
-              <li><a href="{{ site.facebook }}">Facebook</a></li>
+              {% if site.github %}
+              <li><a href="{{ site.pinterest }}">GitHub</a></li>
               {% else %} {% endif %}
 
               {% if site.twitter %}
               <li><a href="{{ site.twitter }}">X/Twitter</a></li>
+              {% else %} {% endif %}
+
+              {% if site.facebook %}
+              <li><a href="{{ site.facebook }}">Facebook</a></li>
               {% else %} {% endif %}
 
               {% if site.instagram %}
