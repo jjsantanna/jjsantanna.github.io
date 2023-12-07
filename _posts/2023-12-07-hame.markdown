@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Test post"
-date:   2023-12-07 07:05:55 +0300
-image:  11.jpg
-tags:   [Jekyll]
----
-Test post
