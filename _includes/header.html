@@ -3,10 +3,6 @@
     <div class="row">
       <div class="col col-12">
         <div class="header-box">
-<!--           <div class="logo-title">
-            <a href="{{site.baseurl}}/" class="logo-text">Jair Santanna</a>
-          </div> -->
-
           <nav class="nav-menu">
             <i class="menu-close ion ion-ios-close"></i>
             <ul class="menu-list">
@@ -18,6 +14,10 @@
               {% endif %}
                 {% endunless %}
               {% endfor %}
+              <li class="menu-item"><a href="{{ site.linkedin}}" class="social-profiles-link"><i class="ion ion-logo-linkedin"></i></a> </li>
+              <li class="menu-item"><a href="{{ site.github}}" class="social-profiles-link"><i class="ion ion-logo-github"></i></a></li>
+              <li class="menu-item"><a href="{{ site.twitter }}" class="social-profiles-link"><i class="ion ion-logo-twitter"></i></a></li>
+              <li class="menu-item"><a href="{{ site.facebook }}" class="social-profiles-link"><i class="ion ion-logo-facebook"></i></a></li>
             </ul>
           </nav>
           <div class="nav-buttons">
@@ -32,24 +32,6 @@
   
 
   <div class="search">
-    
-    <div class="search-box">
-    <ul class="social-profiles list-reset">
-      <li class="social-profiles-item">
-        <a href="{{ site.linkedin}}" class="social-profiles-link"><i class="ion ion-logo-linkedin"></i></a>
-      </li>
-      <li class="social-profiles-item">
-        <a href="{{ site.github}}" class="social-profiles-link"><i class="ion ion-logo-github"></i></a>
-      </li>
-      <li class="social-profiles-item">
-        <a href="{{ site.twitter }}" class="social-profiles-link"><i class="ion ion-logo-twitter"></i></a>
-      </li>
-      <li class="social-profiles-item">
-        <a href="{{ site.facebook }}" class="social-profiles-link"><i class="ion ion-logo-facebook"></i></a>
-      </li>
-    </ul>
-  </div>
-
     <div class="search-box">
       <i class="search-close-button ion ion-ios-close"></i>
       <label for="js-search-input" class="screen-reader-text"></label>
