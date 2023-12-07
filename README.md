@@ -1,1 +1,0 @@
-This website was forked from (Vonge)[https://github.com/CloudCannon/vonge-jekyll-bookshop-template]
