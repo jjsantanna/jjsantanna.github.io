@@ -458,4 +458,13 @@
       color: #fff;
     }
   }
+
+  .nav-buttons ul {
+  display: inline;
+}
+
+.nav-buttons li {
+  display: inline;
+  margin-right: 10px; /* Adjust as needed */
+}
 }

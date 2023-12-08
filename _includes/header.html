@@ -8,39 +8,37 @@
             <ul class="menu-list">
               <li class="menu-item"><a href="{{site.baseurl}}/" class="menu-link">Home</a></li>
               {% for page in site.pages %}
-                {% unless page.name == 'tags.html' or page.name == '404.html' %}
+              {% unless page.name == 'tags.html' or page.name == '404.html' %}
               {% if page.title %}
               <li class="menu-item"><a href="{{ page.url | prepend: site.baseurl }}" class="menu-link">{{ page.title }}</a></li>
               {% endif %}
-                {% endunless %}
+              {% endunless %}
               {% endfor %}
             </ul>
           </nav>
           <div class="nav-buttons">
             <i class="menu-button d-hide ion ion-ios-menu"></i>
+            <!-- Social Media Icons -->
+            <ul class="social-media-icons">
+              <li><a href="{{ site.linkedin }}" class="social-profiles-link"><i class="ion ion-logo-linkedin"></i></a></li>
+              <li><a href="{{ site.github }}" class="social-profiles-link"><i class="ion ion-logo-github"></i></a></li>
+              <li><a href="{{ site.twitter }}" class="social-profiles-link"><i class="ion ion-logo-twitter"></i></a></li>
+              <li><a href="{{ site.facebook }}" class="social-profiles-link"><i class="ion ion-logo-facebook"></i></a></li>
+            </ul>
             <i class="search-button ion ion-ios-search"></i>
           </div>
         </div>
       </div>
-  </div>
 
-  <div class="nav-buttons">
-    <!-- Social Media Icons -->
-    <ul style="display: inline;">
-      <li style="display: inline; margin-right: 10px;"><a href="{{ site.linkedin }}" class="social-profiles-link"><i class="ion ion-logo-linkedin"></i></a></li>
-      <li style="display: inline; margin-right: 10px;"><a href="{{ site.github }}" class="social-profiles-link"><i class="ion ion-logo-github"></i></a></li>
-      <li style="display: inline; margin-right: 10px;"><a href="{{ site.twitter }}" class="social-profiles-link"><i class="ion ion-logo-twitter"></i></a></li>
-      <li style="display: inline; margin-right: 10px;"><a href="{{ site.facebook }}" class="social-profiles-link"><i class="ion ion-logo-facebook"></i></a></li>
-    </ul>
 
-  <div class="search">
-    <div class="search-box">
-      <i class="search-close-button ion ion-ios-close"></i>
-      <label for="js-search-input" class="screen-reader-text"></label>
-      <input type="text" id="js-search-input" class="search-text" autocomplete="off" placeholder="Search Something...">
-      <ol id="js-results-container" class="search-results-list"></ol>
+      <div class="search">
+        <div class="search-box">
+          <i class="search-close-button ion ion-ios-close"></i>
+          <label for="js-search-input" class="screen-reader-text"></label>
+          <input type="text" id="js-search-input" class="search-text" autocomplete="off" placeholder="Search Something...">
+          <ol id="js-results-container" class="search-results-list"></ol>
+      </div>
     </div>
-  </div>
   </div>
 </header> 
 
