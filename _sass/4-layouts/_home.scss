@@ -468,3 +468,29 @@
   margin-right: 10px; /* Adjust as needed */
 }
 }
+
+/* Default styles for desktop */
+.nav-buttons .social-media-icons {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-buttons .social-media-icons li {
+  margin-right: 10px; /* Adjust as needed */
+}
+
+/* Media query for mobile screens */
+@media screen and (max-width: 768px) {
+  .nav-buttons .social-media-icons {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .nav-buttons .social-media-icons li {
+    margin-right: 0;
+    margin-bottom: 10px; /* Space between items when stacked */
+  }
+}
+
