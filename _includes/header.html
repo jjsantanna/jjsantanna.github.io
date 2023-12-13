@@ -11,13 +11,13 @@
               {% unless page.name == 'tags.html' or page.name == '404.html' %}
               {% if page.title %}
               <li class="menu-item"><a href="{{ page.url | prepend: site.baseurl }}" class="menu-link">{{ page.title }}</a></li>
-              <li><a href="{{ site.linkedin }}" class="social-profiles-link"><i class="ion ion-logo-linkedin"></i></a></li>
-              <li><a href="{{ site.github }}" class="social-profiles-link"><i class="ion ion-logo-github"></i></a></li>
-              <li><a href="{{ site.twitter }}" class="social-profiles-link"><i class="ion ion-logo-twitter"></i></a></li>
-              <li><a href="{{ site.facebook }}" class="social-profiles-link"><i class="ion ion-logo-facebook"></i></a></li>
               {% endif %}
               {% endunless %}
               {% endfor %}
+              <li class="menu-item"><a href="{{ site.linkedin }}" class="social-profiles-link"><i class="ion ion-logo-linkedin"></i></a></li>
+              <li class="menu-item"><a href="{{ site.github }}" class="social-profiles-link"><i class="ion ion-logo-github"></i></a></li>
+              <li class="menu-item"><a href="{{ site.twitter }}" class="social-profiles-link"><i class="ion ion-logo-twitter"></i></a></li>
+              <li class="menu-item"><a href="{{ site.facebook }}" class="social-profiles-link"><i class="ion ion-logo-facebook"></i></a></li>
             </ul>
           </nav>
           <div class="nav-buttons">
