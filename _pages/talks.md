@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talks
-image: 02.jpg
+image: 03.jpg
 permalink: /talks/
 ---
 
