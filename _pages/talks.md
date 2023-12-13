@@ -5,9 +5,18 @@ image: 02.jpg
 permalink: /talks/
 ---
 
-#### Dec/2023 - Panel: On the Impact in Academia and Industry. Local: University of Twente. Audience: Computer Science Ph.D. students.
-![Dec-2023 Panel Discussion](/img/20231130_panel_ut.jpg){: width="70%" }
-
-
-
-
+<small>2023</small>
+- Dec/23 - Presentation on *"the 2023 good news on behalf of the Northwave Cyber Fusion Centre* (at the Northwave NCS Good News Show)
+- Nov/23 - Panel discussion on *"research impact in academia and industry"* (at the Computer Science Day at University of Twente)
+- Nov/23 - Presentation on *"explaining Microsof Cyber Security Investment (CSI) program"* (online to a customer)
+- Nov/23 - Presentation on *"basics and foundations of ML/AI"* (at ISACA RISK Event '23)
+- Oct/23 - Presentation on *"a way to build your modern work security handbook"* (at ALSO Cloud Summit '23)
+- Sep/23 - Presentation on *"about the Northwave Cyber Fusion Centre"* (at Northwave General Meeting Team (GMT3))
+- Sep/23 - Presentation on *"ransomware"* (at the RNP WRT RS)
+- Sep/23 - Presentation on *"Discussing and Inspiring on Artificial Intelligence"* (at the General Counsel Dinner of Loyens & Loeff)
+- Sep/23 - Presentation on *"Explaining Microsoft Security Licenses"* (online to a customer)
+- Jun/23 - Presentation on *"Cyber Security and the Future"* (at a customer)
+- Apr/23 - Presentation on *"ChatGPT"* (at the Northwave Pizza, Phun, and Pwnage (PPP))
+- Apr/23 - Presentation on *"Connecting the dots on ransomware"* (at a customer)
+- Mar/23 - Presentation on *"About Northwave"* (at a Microsoft Defender For Cloud event)
+- Jan/23 - Presentation on *"Ransomware"* (at the Twente Cyber Cafe)
