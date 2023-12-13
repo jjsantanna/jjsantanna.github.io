@@ -15,6 +15,8 @@ permalink: /talks/
 - Sep/23 - Presentation on *"ransomware"* (at the RNP WRT RS)
 - Sep/23 - Presentation on *"Discussing and Inspiring on Artificial Intelligence"* (at the General Counsel Dinner of Loyens & Loeff)
 - Sep/23 - Presentation on *"Explaining Microsoft Security Licenses"* (online to a customer)
+- Jul/23 - Keynote speech  (at the student graduation of Honours Program at University of Twente)
+- Jun/23 - Presentation on *"When science fiction becomes reality?! About machine learning algorithms, artificial intelligence and the future of cyber."* [(at the International Cyber Security Conference - Northwave Client Event)](https://northwave-cybersecurity.com/northwave-knowledge-network-agenda)
 - Jun/23 - Presentation on *"Cyber Security and the Future"* (at a customer)
 - Apr/23 - Presentation on *"ChatGPT"* (at the Northwave Pizza, Phun, and Pwnage (PPP))
 - Apr/23 - Presentation on *"Connecting the dots on ransomware"* (at a customer)
