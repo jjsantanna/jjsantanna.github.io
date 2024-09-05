@@ -8,6 +8,8 @@ tags:   [Jekyll]
 
 The goal of this post is to list adversarial attacks against AI LLM (Chatbots and APIs). Let me know if you know more in the comments bellow.
 
+
+
 ## Related to ChatGPT, DAN ("Do Anything Now"), STAN ("Strive to Avoid Norms")
 - [Chat GPT "DAN" (and other "Jailbreaks")by @coolaj86](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516)
 - https://hix.ai/hub/chatgpt/how-to-jailbreak-chatgpt
@@ -20,3 +22,6 @@ The goal of this post is to list adversarial attacks against AI LLM (Chatbots an
 
 ## Game and Tests
 - [GPT Prompt Attack](https://gpa.43z.one/)
+
+## Others
+- [Practical LLM Security: Takeaways From a Year in the Trenches by NVIDIA](https://i.blackhat.com/BH-US-24/Presentations/US24-Harang-Practical-LLM-Security-Takeaways-From-Wednesday.pdf)
